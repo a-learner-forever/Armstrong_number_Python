@@ -6,7 +6,7 @@ count = 0
 temp = num
 while temp > 0:
    digit = temp % 10
-   count = count+1153
+   count = count+1
    temp //= 10
 # find the sum of the cube of each digit
 temp = num
